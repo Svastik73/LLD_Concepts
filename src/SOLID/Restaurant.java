@@ -1,3 +1,5 @@
+package SOLID;
+
 interface RestaurantEmployee {
     // Interface segmented principle example.
     void washDishes();

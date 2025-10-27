@@ -1,3 +1,5 @@
+package SOLID;
+
 public class Marker {
      String name;
      String color;
